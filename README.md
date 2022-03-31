@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 <p> My name is Siem Fitwi, and I’m computer engeener student at OsloMet universty. Since i was a little boy, I’ve been quite interested in creating things. This urge for creativity, I have chosen to express through programming, digital design and more. ✨
+  
   - 📫 How to reach me: siemff2000@gmail.com
+  
   - 🌱 I’m currently learning topics about
+  
           - Operating System (OS) 💻
+  
           - Data network and cloud computing 🔧
+  
           - physics & chemistry 📖
 
 <!--
