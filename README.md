@@ -51,8 +51,8 @@
 <br />
 
   
-[website]: https://
-[course]: http://google.com
+[website]:
+[course]: 
 [twitter]: 
 [youtube]: 
 [instagram]: 
