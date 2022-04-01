@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> My name is Siem Fitwi, and I’m computer engeener student at OsloMet universty. Since i was a little boy, I’ve been quite interested in creating things. This urge for creativity, I have chosen to express through programming, digital design and more. ✨
+<p> My name is Siem Fitwi, and I’m computer engeener student at OsloMet universty. I turn a design into a fresh and modern website by manually writing the code for it, or using tools like wordpress. I’m a full stack developer, meaning I do both front-end and back-end work regarding a website.
 
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning everything 😄💻📖
