@@ -1,10 +1,24 @@
 ### Hi there 👋
 
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
+[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+
+
 <p> My name is Siem Fitwi, and I’m computer engeener student at OsloMet universty. Since i was a little boy, I’ve been quite interested in creating things. This urge for creativity, I have chosen to express through programming, digital design and more. ✨
-  
-  - 📫 How to reach me at: siemff2000@gmail.com
-  
+
+  - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning everything 😄💻📖
+  - 👯 I’m looking to collaborate on ...
+  - 🤔 I’m looking for help with ...
+  - 💬 Ask me about ...
+  - 📫 How to reach me at: siemff2000@gmail.com
+  - 😄 Pronouns: ...
+  - ⚡ Fun fact: ...
   
 ### Connect with me:
 
@@ -25,7 +39,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
@@ -45,13 +59,6 @@
 
 <br />
 <br />
-
----
-  
-  
-  
-  
-  
 
 <!--
 **siemff/siemff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
