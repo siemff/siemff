@@ -13,20 +13,20 @@
   
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://)
-[![website](./img/globe-dark.svg)](https://)
+[![website](./img/globe-light.svg)](https://google.com)
+[![website](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://)
+[![website](./img/youtube-light.svg)]()
 [![website](./img/youtube-dark.svg)](https://)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://)
-[![website](./img/twitter-dark.svg)](https://)
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://)
-[![website](./img/linkedin-dark.svg)](https://)
+[![website](./img/linkedin-light.svg)]()
+[![website](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://)
-[![website](./img/instagram-dark.svg)](https://)
+[![website](./img/instagram-light.svg)]()
+[![website](./img/instagram-dark.svg)]()
 
 ### Languages and Tools:
 
