@@ -50,7 +50,6 @@
 <br />
 <br />
 
- <--
 [website]:
 [course]: 
 [twitter]: 
@@ -60,6 +59,4 @@
 [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
-[reactplaylist]:
-     
- -->
+[reactplaylist]: https://github.com/siemff/siemff/edit/main/README.md
